@@ -1,0 +1,6 @@
+text = 'text_text'
+print(text)
+text = "Я научился!"
+print(text)
+print('Текст')
+print(100-31)
