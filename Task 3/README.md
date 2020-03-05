@@ -160,4 +160,4 @@ number_example += 1
 
 * В пункте `base repository: jdt-w/python_course` выбираем наш скопированный репозиторий: (например в моём случае, это `jdt-w-bot/python_course` (у вас будет: `ВАШ_НИКНЕЙМ_НА_GITHUB/python_course`))
 
-* Открываем папку с 
+* Осуществляем запрос 
